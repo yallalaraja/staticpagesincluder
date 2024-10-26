@@ -110,5 +110,3 @@ This is a Django project for managing static pages and associated resources. The
 
 This project is licensed under the MIT License.
 ```
-
-Feel free to copy and paste this into your `README.md` file!
