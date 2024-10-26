@@ -84,7 +84,7 @@ This is a Django project for managing static pages and associated resources. The
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yallalaraja/staticpagesincluder.git
    cd myapp
    ```
 
